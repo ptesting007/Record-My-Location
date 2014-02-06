@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C6A7D8BA-2788-4765-9E9E-1F3319A5F93C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Record My Location</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6839A608-18A2-4F28-BBBC-7475347D46C2</key>
+		<string>https://github.com/ptesting007/Record-My-Location</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/Record My Location.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6839A608-18A2-4F28-BBBC-7475347D46C2</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>6839A608-18A2-4F28-BBBC-7475347D46C2</key>
+		<string>https://github.com/ptesting007/Record-My-Location</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ptesting007/Record-My-Location/trunk/Record%20My%20Location.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6839A608-18A2-4F28-BBBC-7475347D46C2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6839A608-18A2-4F28-BBBC-7475347D46C2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Record-My-Location</string>
+		</dict>
+	</array>
+</dict>
+</plist>
